@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Blocks>
+  <Block>
+    <Code>N120</Code>
+    <Name>North</Name>
+    <AdministrationAddress>Sun, 15</AdministrationAddress>
+    <InhabitantsNumber>1200</InhabitantsNumber>
+    <Area>10,5</Area>
+  </Block>
+  <Block>
+    <Code>S200</Code>
+    <Name>South</Name>
+    <AdministrationAddress>Cloud, 22</AdministrationAddress>
+    <InhabitantsNumber>20000</InhabitantsNumber>
+    <Area>32,1</Area>
+  </Block>
+  <Block>
+    <Code>W186</Code>
+    <Name>West</Name>
+    <AdministrationAddress>Qwerty, 11/7</AdministrationAddress>
+    <InhabitantsNumber>18652</InhabitantsNumber>
+    <Area>29,47</Area>
+  </Block>
+  <Block>
+    <Code>E192</Code>
+    <Name>East</Name>
+    <AdministrationAddress>Center, 13d</AdministrationAddress>
+    <InhabitantsNumber>19200</InhabitantsNumber>
+    <Area>27,14</Area>
+  </Block>
+</Blocks>

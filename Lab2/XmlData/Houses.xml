@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Houses>
+  <House>
+    <Code>70/1</Code>
+    <ProjectType>HighRise</ProjectType>
+    <FloatsNumber>5</FloatsNumber>
+    <EntrencesNumber>4</EntrencesNumber>
+    <CreationDate>14.06.2002 1:52:39 +03:00</CreationDate>
+  </House>
+  <House>
+    <Code>70/3</Code>
+    <ProjectType>HighRise</ProjectType>
+    <FloatsNumber>5</FloatsNumber>
+    <EntrencesNumber>4</EntrencesNumber>
+    <CreationDate>14.06.1992 1:52:39 +03:00</CreationDate>
+  </House>
+  <House>
+    <Code>68/1</Code>
+    <ProjectType>HighRise</ProjectType>
+    <FloatsNumber>9</FloatsNumber>
+    <EntrencesNumber>7</EntrencesNumber>
+    <CreationDate>14.06.2007 1:52:39 +03:00</CreationDate>
+  </House>
+  <House>
+    <Code>47</Code>
+    <ProjectType>HighRise</ProjectType>
+    <FloatsNumber>9</FloatsNumber>
+    <EntrencesNumber>7</EntrencesNumber>
+    <CreationDate>14.06.2020 1:52:39 +03:00</CreationDate>
+  </House>
+  <House>
+    <Code>9</Code>
+    <ProjectType>OneStory</ProjectType>
+    <FloatsNumber>1</FloatsNumber>
+    <EntrencesNumber>1</EntrencesNumber>
+    <CreationDate>14.06.2016 1:52:39 +03:00</CreationDate>
+  </House>
+  <House>
+    <Code>8</Code>
+    <ProjectType>OneStory</ProjectType>
+    <FloatsNumber>1</FloatsNumber>
+    <EntrencesNumber>1</EntrencesNumber>
+    <CreationDate>14.06.2013 1:52:39 +03:00</CreationDate>
+  </House>
+  <House>
+    <Code>65a</Code>
+    <ProjectType>Hostel</ProjectType>
+    <FloatsNumber>9</FloatsNumber>
+    <EntrencesNumber>1</EntrencesNumber>
+    <CreationDate>14.06.2002 1:52:39 +03:00</CreationDate>
+  </House>
+  <House>
+    <Code>65b</Code>
+    <ProjectType>Hostel</ProjectType>
+    <FloatsNumber>5</FloatsNumber>
+    <EntrencesNumber>1</EntrencesNumber>
+    <CreationDate>14.06.1981 1:52:39 +03:00</CreationDate>
+  </House>
+  <House>
+    <Code>65c</Code>
+    <ProjectType>Hostel</ProjectType>
+    <FloatsNumber>5</FloatsNumber>
+    <EntrencesNumber>1</EntrencesNumber>
+    <CreationDate>14.06.2011 1:52:39 +03:00</CreationDate>
+  </House>
+  <House>
+    <Code>11/3</Code>
+    <ProjectType>HighRise</ProjectType>
+    <FloatsNumber>7</FloatsNumber>
+    <EntrencesNumber>3</EntrencesNumber>
+    <CreationDate>14.06.2002 1:52:39 +03:00</CreationDate>
+  </House>
+  <House>
+    <Code>11a</Code>
+    <ProjectType>Cottage</ProjectType>
+    <FloatsNumber>2</FloatsNumber>
+    <EntrencesNumber>1</EntrencesNumber>
+    <CreationDate>14.06.2018 1:52:39 +03:00</CreationDate>
+  </House>
+  <House>
+    <Code>11c</Code>
+    <ProjectType>Cottage</ProjectType>
+    <FloatsNumber>3</FloatsNumber>
+    <EntrencesNumber>1</EntrencesNumber>
+    <CreationDate>14.06.2015 1:52:39 +03:00</CreationDate>
+  </House>
+  <House>
+    <Code>11b</Code>
+    <ProjectType>Cottage</ProjectType>
+    <FloatsNumber>1</FloatsNumber>
+    <EntrencesNumber>1</EntrencesNumber>
+    <CreationDate>14.06.2021 1:52:39 +03:00</CreationDate>
+  </House>
+</Houses>
