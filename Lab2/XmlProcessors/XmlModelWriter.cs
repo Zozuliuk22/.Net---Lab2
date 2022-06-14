@@ -37,14 +37,7 @@ namespace Application.XmlProcessors
             var list = new List<XElement>();
 
             foreach (var property in properties)
-            {
-                var date = property.GetValue(item) as DateTimeOffset?;
-
-                if (date is null)
-                    list.Add(new XElement(property.Name, property.GetValue(item)));
-                else
-                    list.Add(new XElement(property.Name, String.Format("dd:MM:yyyy", date)));
-            }
+                list.Add(new XElement(property.Name, property.GetValue(item))); 
 
             return new XElement(type.Name, list.ToArray());
         }

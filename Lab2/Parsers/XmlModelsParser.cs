@@ -1,6 +1,4 @@
 ﻿using Application.Models;
-using Application.Enums;
-using System;
 using System.Xml.Linq;
 
 namespace Application.Parsers
@@ -16,8 +14,8 @@ namespace Application.Parsers
                 AdministrationAddress = xElement.Element("AdministrationAddress")?.Value                
             };
 
-            model.InhabitantsNumber = GeneralParser.ParseInt(xElement.Element("InhabitantsNumber")?.Value);
-            model.Area = GeneralParser.ParseDouble(xElement.Element("Area")?.Value);
+            model.InhabitantsNumber = Parser.ToInt(xElement.Element("InhabitantsNumber")?.Value);
+            model.Area = Parser.ToDouble(xElement.Element("Area")?.Value);
 
             return model;
         }
@@ -29,10 +27,10 @@ namespace Application.Parsers
                 Code = xElement.Element("Code")?.Value,                
             };
 
-            model.FloatsNumber = GeneralParser.ParseInt(xElement.Element("FloatsNumber")?.Value);
-            model.EntrencesNumber = GeneralParser.ParseInt(xElement.Element("EntrencesNumber")?.Value);
-            model.CreationDate = GeneralParser.ParseDateTimeOffset(xElement.Element("CreationDate")?.Value);
-            model.ProjectType = GeneralParser.ParseProjectType(xElement.Element("ProjectType")?.Value);
+            model.FloatsNumber = Parser.ToInt(xElement.Element("FloatsNumber")?.Value);
+            model.EntrencesNumber = Parser.ToInt(xElement.Element("EntrencesNumber")?.Value);
+            model.CreationDate = Parser.ToDateTimeOffset(xElement.Element("CreationDate")?.Value);
+            model.ProjectType = Parser.ToProjectType(xElement.Element("ProjectType")?.Value);
 
             return model;
         }

@@ -61,6 +61,17 @@ namespace Application.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 1 - Create new Block
+        ///2 - Create new House
+        ///3 - Create new HouseToBlock.
+        /// </summary>
+        internal static string AdditionalMenu {
+            get {
+                return ResourceManager.GetString("AdditionalMenu", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 1 - Show all Blocks
         ///2 - Show full information about City
         ///3 - Show area of City

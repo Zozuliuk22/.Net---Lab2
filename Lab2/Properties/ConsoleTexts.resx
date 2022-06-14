@@ -117,6 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AdditionalMenu" xml:space="preserve">
+    <value>1 - Create new Block
+2 - Create new House
+3 - Create new HouseToBlock</value>
+  </data>
   <data name="Menu" xml:space="preserve">
     <value>1 - Show all Blocks
 2 - Show full information about City
@@ -132,7 +137,8 @@
 12 - Show Top 10 oldest houses
 13 - Show percent of HighRise houses by Block
 14 - Show blocks with multi-entrences houses
-15 - Play in Blocks Game</value>
+15 - Play in Blocks Game
+16 - Create new Item</value>
   </data>
   <data name="MultiEntrencesHousesLabel" xml:space="preserve">
     <value>Blocks with multi-entrences houses:</value>

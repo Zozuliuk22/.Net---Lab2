@@ -28,4 +28,18 @@
     <InhabitantsNumber>19200</InhabitantsNumber>
     <Area>27,14</Area>
   </Block>
+  <Block>
+    <Code>N121</Code>
+    <Name>Some name</Name>
+    <AdministrationAddress>Some address</AdministrationAddress>
+    <InhabitantsNumber>4</InhabitantsNumber>
+    <Area>15.7</Area>
+  </Block>
+  <Block>
+    <Code>N122</Code>
+    <Name>Some name N122</Name>
+    <AdministrationAddress>Some Address N122</AdministrationAddress>
+    <InhabitantsNumber>7</InhabitantsNumber>
+    <Area>13.78</Area>
+  </Block>
 </Blocks>
